@@ -30,6 +30,7 @@ namespace AuthJWTLesson
             services.AddControllers();
             services.AddDbContext<DataAccess.AppContext>(options => options.UseSqlServer(configuration.GetConnectionString("AuthConnectionString")));
             services.AddTransient<AuthService>();
+            services.AddTransient<TokenValidationService>();
 
             var secrets = configuration.GetSection("Secrets");
             var key = Encoding.ASCII.GetBytes(secrets.GetValue<string>("JWTSecret"));

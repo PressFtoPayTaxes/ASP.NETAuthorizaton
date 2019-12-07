@@ -8315,23 +8315,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\СкоропадИг\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\ASP.NET\\AuthJWTLesson\\AuthJWTLesson\\AuthJWTLesson.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\_STEP_JWT\\AuthJWTLesson\\AuthJWTLesson.csproj",
       "projectName": "AuthJWTLesson",
-      "projectPath": "Z:\\ASP.NET\\AuthJWTLesson\\AuthJWTLesson\\AuthJWTLesson.csproj",
-      "packagesPath": "C:\\Users\\СкоропадИг\\.nuget\\packages\\",
-      "outputPath": "Z:\\ASP.NET\\AuthJWTLesson\\AuthJWTLesson\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Documents\\_STEP_JWT\\AuthJWTLesson\\AuthJWTLesson.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\_STEP_JWT\\AuthJWTLesson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\СкоропадИг\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
